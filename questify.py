@@ -457,8 +457,8 @@ def startapp():
         otp = str(random.randint(1000, 9999))
 
         # Email configuration
-        sender_email = "krishsingh.genaibu@gmail.com"
-        sender_password = "typb food zdfy dlic"
+        sender_email = "abc@gmail.com" #enter your email
+        sender_password = "12345567" #enter your password or create an app password
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
 
