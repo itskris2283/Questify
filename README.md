@@ -31,7 +31,8 @@ Questify is a feature-rich quiz application built with Java and Tkinter for the 
    ```bash
    git clone https://github.com/yourusername/quiz-app.git
 2. Install the required Python packages:
-    bash
+    ```bash
     pip install tkinter requests cryptography matplotlib pygame
 3. Run the application
+   ```bash
    python questify.py
