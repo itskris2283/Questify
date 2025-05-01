@@ -33,3 +33,5 @@ Questify is a feature-rich quiz application built with Java and Tkinter for the 
 2. Install the required Python packages:
     bash
     pip install tkinter requests cryptography matplotlib pygame
+3. Run the application
+   python questify.py
